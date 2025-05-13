@@ -7,3 +7,4 @@ books/
 **/*.egg
 **/*.whl
 **/*.db 
+__pycache__/stats.cpython-310.pyc
