@@ -8,3 +8,4 @@ books/
 **/*.whl
 **/*.db 
 __pycache__/stats.cpython-310.pyc
+__pycache__/stats.cpython-310.pyc
