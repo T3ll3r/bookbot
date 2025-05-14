@@ -7,10 +7,10 @@ from stats import (
 from sys import argv
 
 if len(argv) != 2:
+    print("Usage: python3 main.py <path_to_book>")
     exit(1)
 else:
     book_path = argv[1]
-
 
 def main():
 
